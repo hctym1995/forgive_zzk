@@ -1,7 +1,7 @@
 import time
 import tqdm
 
-stop = 10
+stop = 9
 num = 230
 
 def zzk():
